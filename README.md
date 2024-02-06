@@ -40,4 +40,8 @@
 <h5>2. Простенький чатик. Фановый проект. Основной функционал готов, но многое еще предстоит. Доступна только десктопная версия. Необходима регистрация</h5> 
 <a href="https://gfr616.github.io/ChatSimple/#/auth">SimpleChat</a> / <a href="https://github.com/gfR616/ChatSimple">Repo</a> 
 
-
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfr616&show_icons=true&locale=en&layout=compact" alt="gfr616" /></div>  
+<br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=gfr616&show_icons=true&locale=en" alt="gfr616" /></div>  
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfr616&" alt="gfr616" /></p>
