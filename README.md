@@ -38,11 +38,12 @@
 
 <h3 align="left">Highlights</h3>
 <p>
-<a href="https://gfr616.github.io/landingForCat/">Лендинг, посвещенный моим кошкам</a>
+  <h2>1. Лендинг, посвещенный моим кошкам</h2>
+<a href="https://gfr616.github.io/landingForCat/">LandingForCats</a><a href="https://github.com/gfR616/landingForCat">Repo</a> 
 </p>
-<p>Фановый проект. Основной функционал готов, но многое еще предстоит. Доступна только десктопная версия. Необходима регистрация</p> 
+<h2>2. Простенький чатик. Фановый проект. Основной функционал готов, но многое еще предстоит. Доступна только десктопная версия. Необходима регистрация</h2> 
 <p>
-<a href="https://gfr616.github.io/ChatSimple/#/auth">Простенький чатик</a> <a href="https://github.com/gfR616/ChatSimple">Репозиторий</a> 
+<a href="https://gfr616.github.io/ChatSimple/#/auth">SimpleChat</a> <a href="https://github.com/gfR616/ChatSimple">Repo</a> 
 </p>
 
 
