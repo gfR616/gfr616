@@ -32,13 +32,22 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
-Раняя работа - верстка. Репозиторий
-
-Есть приватные проекты, для демонстрации пишите в telegram
+<h3 align="left">Highlights</h3>
+<p>
+<a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. Я в роли техлида</a>
+</p>
+<p>
+<a href="https://github.com/realing29/01-hackathon">Хакатон по javascript. Я в роли тимлида</a>
+</p>
+<p>
+<a href="https://github.com/realing29/nuxt-blog">Изучал курс по Nuxt</a>
+</p>
+<p>
+<a href="https://realing29.github.io/Mars/">Раняя работа - верстка</a>. <a href="https://github.com/realing29/Mars">Репозиторий</a>
+</p>
+<p>Есть приватные проекты, для демонстрации пишите в <a href="https://t.me/realing29">telegram</a></p>
 
