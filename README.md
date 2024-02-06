@@ -1,7 +1,9 @@
 <h1>👋 Hi, I’m Roman</h1>
+
 - 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me 616gfr@gmail.com
+
 <p align="left">
   <a href="https://www.codewars.com/users/realing29" target="blank">
     <img src="https://www.codewars.com/users/realing29/badges/large" alt="codewars-stats" /> 
