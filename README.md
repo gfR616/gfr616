@@ -5,7 +5,7 @@
 - 📫 How to reach me 616gfr@gmail.com
 
 <p align="left">
-  <a href="https://www.codewars.com/users/realing29" target="blank">
+  <a href="https://www.codewars.com/users/Ghostb1313" target="blank">
     <img src="https://www.codewars.com/users/realing29/badges/large" alt="codewars-stats" /> 
   </a>
 </p>
