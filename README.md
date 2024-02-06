@@ -37,7 +37,7 @@
 
 <h5>1. Лендинг, посвещенный моим кошкам</h5>
 <a href="https://gfr616.github.io/landingForCat/">LandingForCats</a> / <a href="https://github.com/gfR616/landingForCat">Repo</a> 
-<h5>2. Простенький чатик. Фановый проект. Основной функционал готов, но многое еще предстоит. Доступна только десктопная версия. Необходима регистрация</h5> 
+<h5>2. Простенький чатик. Фановый проект. Основной функционал готов. Доступна только десктопная версия. Необходима регистрация</h5> 
 <a href="https://gfr616.github.io/ChatSimple/#/auth">SimpleChat</a> / <a href="https://github.com/gfR616/ChatSimple">Repo</a> 
 
 <br>
