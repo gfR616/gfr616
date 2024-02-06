@@ -38,16 +38,13 @@
 
 <h3 align="left">Highlights</h3>
 <p>
-<a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. Я в роли техлида</a>
+<a href="https://gfr616.github.io/landingForCat/">Лендинг, посвещенный моим кошкам</a>
 </p>
 <p>
-<a href="https://github.com/realing29/01-hackathon">Хакатон по javascript. Я в роли тимлида</a>
+<a https://gfr616.github.io/ChatSimple/#/auth>Простенький чатик, основной функционал готов, но многое еще предстоит. Доступна только десктопная версия. Необходима регистрация</a>
 </p>
 <p>
 <a href="https://github.com/realing29/nuxt-blog">Изучал курс по Nuxt</a>
 </p>
-<p>
-<a href="https://realing29.github.io/Mars/">Раняя работа - верстка</a>. <a href="https://github.com/realing29/Mars">Репозиторий</a>
-</p>
-<p>Есть приватные проекты, для демонстрации пишите в <a href="https://t.me/realing29">telegram</a></p>
+
 
